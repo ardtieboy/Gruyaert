@@ -1,6 +1,10 @@
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Gruyaert FR & PJ</a></li>
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
   <li class="{% if page.url contains '/nieuwbouw/' %} active {% endif %}"><a href="{{ "/nieuwbouw/" | absolute_url }}">Nieuwbouw</a></li>
   <li class="{% if page.url contains '/renovatie/' %} active {% endif %}"><a href="{{ "/renovatie/" | absolute_url }}">Renovatie</a></li>
+  <li class="{% if page.url contains '/vloeren/' %} active {% endif %}"><a href="{{ "/vloeren/" | absolute_url }}">Vloeren</a></li>
+  <li class="{% if page.url contains '/faiences/' %} active {% endif %}"><a href="{{ "/faiences/" | absolute_url }}">Faiences</a></li>
+  <li class="{% if page.url contains '/opritten/' %} active {% endif %}"><a href="{{ "/opritten/" | absolute_url }}">Opritten</a></li>
+  <li class="{% if page.url contains '/terrassen/' %} active {% endif %}"><a href="{{ "/terrassen/" | absolute_url }}">Terrassen</a></li>
   <li class="{% if page.url contains '/contact/' %} active {% endif %}"><a href="{{ "/contact/" | absolute_url }}">Contact</a></li>
 </ul>

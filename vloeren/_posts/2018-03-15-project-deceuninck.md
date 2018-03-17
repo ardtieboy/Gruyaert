@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Renovatie Deceuninck"
+title:  "Vloeren Deceuninck"
 date:   2017-10-31
 image: "/images/slager1.jpg"
 sub_images:
@@ -9,4 +9,4 @@ sub_images:
   - path: "/images/slager3.jpg"
 ---
 
-Uitleg project
+Voor dit in Ledegem project kozen we voor een witgewassen vloersteen...

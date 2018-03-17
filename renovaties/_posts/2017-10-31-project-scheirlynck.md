@@ -9,10 +9,4 @@ sub_images:
   - path: "/images/pic04.jpg"
 ---
 
-## Renovatie te Wervik
-Amai zo sjiek enal
-
-## Dummy titel
-### Kleinere dummytitel
-
-amai tzietr wel goe uit eh!
+Uitleg project

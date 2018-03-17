@@ -24,11 +24,6 @@
 
             {% include nav.html %}
 
-						<ul class="icons">
-              <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
-              <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
-              <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
-						</ul>
 					</nav>
 
 				<!-- Main -->
@@ -52,7 +47,7 @@
 									{% else %}
 										<div class="carousel-item">
 									{% endif %}
-										<img class="d-block w-100" src="{{sub_image.path}}" alt="Third slide">
+										<img class="d-block w-100" src="{{site.baseurl}}{{sub_image.path}}" alt="Third slide">
 									</div>
 								{% endfor %}
 						  </div>
@@ -65,11 +60,13 @@
 						    <span class="sr-only">Next</span>
 						  </a>
 					</div>
-					<h1>{{page.title}}</h1>
 
+					<br /><br />
 
 					{{content}}
+
 					</div>
+
 
       		</section>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Renovatie Deceuninck"
+title:  "Opritten Deceuninck"
 date:   2017-10-31
 image: "/images/slager1.jpg"
 sub_images:

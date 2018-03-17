@@ -2,6 +2,24 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>/vloeren/project-deceuninck/</loc>
+      
+        <lastmod>2017-10-31T00:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/terrassen/project-deceuninck/</loc>
+      
+        <lastmod>2017-10-31T00:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>/renovaties/project-deceuninck/</loc>
       
         <lastmod>2017-10-31T00:00:00+01:00</lastmod>
@@ -29,6 +47,15 @@
     </url>
   
     <url>
+      <loc>/opritten/project-deceuninck/</loc>
+      
+        <lastmod>2017-10-31T00:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>/nieuwbouw/project-scheirlynck/</loc>
       
         <lastmod>2017-10-31T00:00:00+01:00</lastmod>
@@ -46,9 +73,28 @@
       <priority>0.7</priority>
     </url>
   
+    <url>
+      <loc>/faiences/project-deceuninck/</loc>
+      
+        <lastmod>2017-10-31T00:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
   
     <url>
       <loc>/contact/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
+      <loc>/faiences/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -78,6 +124,16 @@
      </url>
   
     <url>
+      <loc>/opritten/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
       <loc>/renovatie/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
@@ -98,6 +154,26 @@
      </url>
   
     <url>
+      <loc>/terrassen/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
+      <loc>/vloeren/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
       <loc>/feed.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
@@ -114,6 +190,16 @@
        <changefreq>weekly</changefreq>
       
        <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>/blog/page2/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
       
      </url>
   
