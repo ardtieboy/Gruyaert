@@ -3,7 +3,7 @@ title:              Gruyaert FR & PJ
 bio:                'Gruyaert FR & PJ BVBA Bouwondernemingen'
 description:        "Gruyaert FR & PJ BVBA Bouwondernemingen"
 locale:             en_US
-baseurl: "/Gruyaert" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 defaults:
