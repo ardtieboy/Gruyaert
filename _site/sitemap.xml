@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>/vloeren/project-deceuninck/</loc>
+      <loc>/woningbouw/project-scheirlynck/</loc>
       
         <lastmod>2017-10-31T00:00:00+01:00</lastmod>
       
@@ -11,7 +11,7 @@
     </url>
   
     <url>
-      <loc>/terrassen/project-deceuninck/</loc>
+      <loc>/woningbouw/project-eeckhout/</loc>
       
         <lastmod>2017-10-31T00:00:00+01:00</lastmod>
       
@@ -20,7 +20,7 @@
     </url>
   
     <url>
-      <loc>/renovaties/project-deceuninck/</loc>
+      <loc>/vloerenenfaiences/project-deceuninck/</loc>
       
         <lastmod>2017-10-31T00:00:00+01:00</lastmod>
       
@@ -29,7 +29,7 @@
     </url>
   
     <url>
-      <loc>/renovaties/project-scheirlynck/</loc>
+      <loc>/verbouwingen/project-deceuninck/</loc>
       
         <lastmod>2017-10-31T00:00:00+01:00</lastmod>
       
@@ -38,7 +38,7 @@
     </url>
   
     <url>
-      <loc>/renovaties/project-eeckhout/</loc>
+      <loc>/verbouwingen/project-scheirlynck/</loc>
       
         <lastmod>2017-10-31T00:00:00+01:00</lastmod>
       
@@ -47,7 +47,7 @@
     </url>
   
     <url>
-      <loc>/opritten/project-deceuninck/</loc>
+      <loc>/verbouwingen/project-eeckhout/</loc>
       
         <lastmod>2017-10-31T00:00:00+01:00</lastmod>
       
@@ -56,25 +56,7 @@
     </url>
   
     <url>
-      <loc>/nieuwbouw/project-scheirlynck/</loc>
-      
-        <lastmod>2017-10-31T00:00:00+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>/nieuwbouw/project-eeckhout/</loc>
-      
-        <lastmod>2017-10-31T00:00:00+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>/faiences/project-deceuninck/</loc>
+      <loc>/oprittenenterrassen/project-deceuninck/</loc>
       
         <lastmod>2017-10-31T00:00:00+01:00</lastmod>
       
@@ -94,16 +76,6 @@
      </url>
   
     <url>
-      <loc>/faiences/</loc>
-       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>1.0</priority>
-      
-     </url>
-  
-    <url>
       <loc>/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
@@ -114,27 +86,7 @@
      </url>
   
     <url>
-      <loc>/nieuwbouw/</loc>
-       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>1.0</priority>
-      
-     </url>
-  
-    <url>
-      <loc>/opritten/</loc>
-       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>1.0</priority>
-      
-     </url>
-  
-    <url>
-      <loc>/renovatie/</loc>
+      <loc>/oprittenenterrassen/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -154,7 +106,7 @@
      </url>
   
     <url>
-      <loc>/terrassen/</loc>
+      <loc>/verbouwingen/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -164,7 +116,17 @@
      </url>
   
     <url>
-      <loc>/vloeren/</loc>
+      <loc>/vloerenenfaiences/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
+      <loc>/woningbouw/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>

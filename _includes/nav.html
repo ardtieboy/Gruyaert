@@ -1,10 +1,8 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
-  <li class="{% if page.url contains '/nieuwbouw/' %} active {% endif %}"><a href="{{ "/nieuwbouw/" | absolute_url }}">Nieuwbouw</a></li>
-  <li class="{% if page.url contains '/renovatie/' %} active {% endif %}"><a href="{{ "/renovatie/" | absolute_url }}">Renovatie</a></li>
-  <li class="{% if page.url contains '/vloeren/' %} active {% endif %}"><a href="{{ "/vloeren/" | absolute_url }}">Vloeren</a></li>
-  <li class="{% if page.url contains '/faiences/' %} active {% endif %}"><a href="{{ "/faiences/" | absolute_url }}">Faiences</a></li>
-  <li class="{% if page.url contains '/opritten/' %} active {% endif %}"><a href="{{ "/opritten/" | absolute_url }}">Opritten</a></li>
-  <li class="{% if page.url contains '/terrassen/' %} active {% endif %}"><a href="{{ "/terrassen/" | absolute_url }}">Terrassen</a></li>
+  <li class="{% if page.url contains '/woningbouw/' %} active {% endif %}"><a href="{{ "/woningbouw/" | absolute_url }}">Woningbouw</a></li>
+  <li class="{% if page.url contains '/verbouwingen/' %} active {% endif %}"><a href="{{ "/verbouwingen/" | absolute_url }}">Verbouwingen</a></li>
+  <li class="{% if page.url contains '/vloerenenfaiences/' %} active {% endif %}"><a href="{{ "/vloerenenfaiences/" | absolute_url }}">Vloeren & Faiences</a></li>
+  <li class="{% if page.url contains '/oprittenenterrassen/' %} active {% endif %}"><a href="{{ "/oprittenenterrassen/" | absolute_url }}">Opritten & Terrassen</a></li>
   <li class="{% if page.url contains '/contact/' %} active {% endif %}"><a href="{{ "/contact/" | absolute_url }}">Contact</a></li>
 </ul>
