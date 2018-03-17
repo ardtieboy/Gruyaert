@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+				<header id="header">
+					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+				</header>
+
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+						<ul class="icons">
+              <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+              <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
+              <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+
+					<!-- Check css file hier, ik probeer iets met text naar rechts maar werkt niet -->
+
+          <article>
+								<div style="overflow:hidden;height:80%;width:40%;margin-left:0;margin-right:auto;display:inline-block">
+									{{content}}
+								</div>
+								<!-- <span class="image-right" style="overflow:hidden;height:500px;width:600px;margin-left:auto;margin-right:0;display:inline-block;background-color:yellow"> -->
+								<span class="image-right" style="overflow:hidden;height:80%;width:58%;margin-top:0;margin-bottom:auto;margin-left:auto;margin-right:0;display:inline-block">
+									<div class="gmap_canvas">
+										<iframe width="600px" height="400px" id="gmap_canvas" src="https://maps.google.com/maps?q=ledegem meensesteenweg 528&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+										</iframe>
+									</div>
+									<!-- <a href="https://www.embedgooglemap.net">embedgooglemap.net</a> -->
+									<style>
+										.gmap_canvas {background:none!important;height:400px;width:600px}
+									</style>
+								</span>
+					</article>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+			<!-- Scripts -->
+			{% include scripts-main.html %}
+			{% include tracking.html %}
+
+	</body>
+</html>

@@ -1,0 +1,65 @@
+# Site
+title:              Gruyaert FR & PJ
+bio:                'Gruyaert FR & PJ BVBA Bouwondernemingen'
+description:        "Gruyaert FR & PJ BVBA Bouwondernemingen"
+locale:             en_US
+baseurl: "/gruyaert" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/:categories/:title/"
+    layout: post
+    author:
+
+# Jekyll
+# permalink:          /blog/:title/
+permalink:          /:categories/:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Comments
+disqus_shortname:   default
+
+# Social
+analytics-id:       "default"
+twitter:            default
+facebook:           default
+instagram:          default
+github:             default
+
+# personal
+location:           Meensesteenweg 528, 8800 Roeselare
+phonepj:            0474 85 58 89
+phonefr:            0474 85 58 89
+email:              pjgruyaert@telenet.be
+
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
