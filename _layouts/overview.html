@@ -41,7 +41,7 @@
           </article>
 					<!-- Post -->
 					<section class="posts">
-						{% for post in site.categories.[page.overviewtitle] %}
+						{% for post in site.categories.[page.overviewtitle] | sort: 'date'%}
 						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
 								<header>
