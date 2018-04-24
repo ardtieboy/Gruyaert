@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Terras familie Dewitte - Carpentier"
+title:  "Poolhouse familie Dewitte - Carpentier"
 date:   2018-04-11
 image: "/images/dewitte_poolhouse/dewitte1.jpg"
 sub_images:

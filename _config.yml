@@ -36,9 +36,9 @@ sass:
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
+analytics-id:       default
 twitter:            default
-facebook:           default
+facebook:           https://www.facebook.com/BVBA-Bouwonderneming-Gruyaert-1732864953472670/
 instagram:          default
 
 # personal
