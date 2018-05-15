@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Nieuwbouw Kerckhof"
-date:   2018-04-14
+title:  "Nieuwbouwprojecten"
+date:   2018-05-15
 image: "/images/kerckhof_nieuwbouw/kerckhof8.jpg"
 sub_images:
   - path: "/images/kerckhof_nieuwbouw/kerckhof1.jpg"
@@ -25,5 +25,3 @@ sub_images:
   - path: "/images/kerckhof_nieuwbouw/kerckhof18.jpg"
   - path: "/images/kerckhof_nieuwbouw/kerckhof19.jpg"    
 ---
-
-Nieuwbouw Kerckhof

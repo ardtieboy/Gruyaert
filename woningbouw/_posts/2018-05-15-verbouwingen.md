@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Verbouwingen Bakkerij Van Hecke"
-date:   2018-04-14
+title:  "Verbouwingswerken"
+date:   2018-05-15
 image: "/images/vanhecke_verbouwing/vanhecke5.jpg"
 sub_images:
   - path: "/images/vanhecke_verbouwing/vanhecke1.jpg"
@@ -12,7 +12,9 @@ sub_images:
   - path: "/images/vanhecke_verbouwing/vanhecke6.jpg"
   - path: "/images/vanhecke_verbouwing/vanhecke7.jpg"
   - path: "/images/vanhecke_verbouwing/vanhecke8.jpg"
-  - path: "/images/vanhecke_verbouwing/vanhecke9.jpg"              
+  - path: "/images/vanhecke_verbouwing/vanhecke9.jpg"  
+  - path: "/images/demifruit_verbouwing/demifruit1.jpg"
+  - path: "/images/demifruit_verbouwing/demifruit2.jpg"
+  - path: "/images/demifruit_verbouwing/demifruit4.jpg"
+  - path: "/images/demifruit_verbouwing/demifruit5.jpg"    
 ---
-
-Verbouwingen Bakkerij Van Hecke
