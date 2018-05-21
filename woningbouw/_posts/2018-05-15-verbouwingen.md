@@ -1,20 +1,11 @@
 ---
 layout: post
-title:  "Verbouwingswerken"
+title:  "Verbouwingen"
 date:   2018-05-15
-image: "/images/vanhecke_verbouwing/vanhecke5.jpg"
+image: "/images/verbouwing/IMG_20180221_084103.jpg_thumbnail.jpg"
 sub_images:
-  - path: "/images/vanhecke_verbouwing/vanhecke1.jpg"
-  - path: "/images/vanhecke_verbouwing/vanhecke2.jpg"
-  - path: "/images/vanhecke_verbouwing/vanhecke3.jpg"
-  - path: "/images/vanhecke_verbouwing/vanhecke4.jpg"
-  - path: "/images/vanhecke_verbouwing/vanhecke5.jpg"
-  - path: "/images/vanhecke_verbouwing/vanhecke6.jpg"
-  - path: "/images/vanhecke_verbouwing/vanhecke7.jpg"
-  - path: "/images/vanhecke_verbouwing/vanhecke8.jpg"
-  - path: "/images/vanhecke_verbouwing/vanhecke9.jpg"  
-  - path: "/images/demifruit_verbouwing/demifruit1.jpg"
-  - path: "/images/demifruit_verbouwing/demifruit2.jpg"
-  - path: "/images/demifruit_verbouwing/demifruit4.jpg"
-  - path: "/images/demifruit_verbouwing/demifruit5.jpg"    
+  - path: "/images/verbouwing/IMG_20170627_082923.jpg"
+  - path: "/images/verbouwing/IMG_20180216_151028.jpg"
+  - path: "/images/verbouwing/IMG_20180221_084103.jpg"
+  - path: "/images/verbouwing/IMG_20180221_165259.jpg"
 ---
