@@ -1,7 +1,7 @@
 ---
 layout: overview
 overviewtitle: woningbouw
-title: Bouw- en verbouwingswerken
+title: Verbouwingen
 description: woningbouw komt hier.
 sitemap:
     priority: 1.0
