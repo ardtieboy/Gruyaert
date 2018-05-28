@@ -18,3 +18,9 @@ Just follow the structure and upload images where needed.
 ## Forwarding
 
 The site is also visible by visiting 'www.bouwonderneminggruyaert.be'. This is done in the config in combell in the section webforwarding.
+
+## Adding images
+
+Run the ImageResizer project
+1) Run the generate thumbnail-script with the absolute path of the folder with ImageResizer
+2) Next run the generate path-script to generate the path
